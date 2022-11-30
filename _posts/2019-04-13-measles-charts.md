@@ -8,8 +8,8 @@ altair-loader:
   altair-chart-1: "charts/measlesAltair.json"
 hv-loader:
   hv-chart-1: ["charts/measlesHvplot.html", "500"] # second argument is the height
-toc: true
-toc_sticky: true
+toc: false
+toc_sticky: false
 ---
 
 

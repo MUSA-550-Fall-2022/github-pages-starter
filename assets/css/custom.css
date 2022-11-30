@@ -16,3 +16,8 @@ td {
   border-bottom-width: 0 !important;
   font-size: 0.6rem !important;
 }
+
+#altair-chart-1 {
+  width: 650px;
+  
+}
